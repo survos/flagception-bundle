@@ -16,7 +16,7 @@ This bundle integrates the [Flagception PHP Libary](https://packagist.org/packag
 | >=4                  | 4.4 - current   | master |
 
 ```console
-$ composer require flagception/flagception-bundle
+composer require flagception/flagception-bundle
 ```
 
 Documentation
